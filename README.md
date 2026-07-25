@@ -54,7 +54,7 @@ bots/        Telegram API · Telethon · Pyrogram
 
 <div align="center">
 
-![stats](https://github-readme-stats-two-tau-69.vercel.app/api?username=avi-dev-user&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=00ff8844&icon_color=00ff88&text_color=888888&title_color=00ff88&count_private=true)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avi-dev-user&theme=github_dark)
 
 </div>
 
