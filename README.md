@@ -11,7 +11,8 @@
 ```
 user      : avi-dev-user
 location  : Israel
-role      : full-stack engineer + infra
+role      : software engineer
+focus     : full-stack · DevOps · automation
 ```
 
 ```bash
@@ -19,19 +20,22 @@ role      : full-stack engineer + infra
 ```
 ```
 languages/   TypeScript · Kotlin · Python · PHP
-backend/     NestJS · Prisma · Postgres
+frontend/    Angular · React
+backend/     Node.js · NestJS · Prisma
+databases/   PostgreSQL · MySQL · MongoDB
 mobile/      Android · Kotlin
-infra/       Docker · k3s · ArgoCD · Nginx
-bots/        Telegram API · Telethon · Pyrogram
+infra/       Docker · k3s · Nginx
+ci/cd/       GitHub Actions · GitLab CI/CD · ArgoCD
+messaging/   Telegram API · WhatsApp API
 ```
 
 ```bash
 └──╼ $ cat status
 ```
 ```
-[*] always building, always shipping
-[*] self-hosting everything on k3s
-[~] most repos are private — contributions tell the story
+[*] building tools I use, running what I build
+[*] self-hosting on k3s
+[~] most of my work lives in private repositories
 ```
 
 ---
