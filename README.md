@@ -12,7 +12,7 @@
 user      : avi-dev-user
 location  : Israel
 role      : software engineer
-focus     : full-stack · DevOps · automation
+focus     : backend · DevOps · automation · developer tooling
 ```
 
 ```bash
